@@ -1,2 +1,1 @@
 # pse
-Muntean Alin Daniel
